@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Poppins:wght@400;500;600&display=swap");
+
+@font-face {
+  font-family: "Madame Grettha";
+  src: url("../Madame-Grettha-Font/Madame Grettha.ttf") format("truetype"),
+       url("../Madame-Grettha-Font/Madame Grettha.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+p {
+  font-family: "Dancing Script";
+}
+
+.text-logo {
+  font-family: "Madame Grettha", cursive;
+}
