@@ -12,6 +12,7 @@ The app focuses on:
 📱 Responsive Design – Built with a clean and modern interface for seamless reading across devices.
 
 🚀 Dynamic Content Loading – Ensures fast performance and smooth navigation as users explore stories.
+
  This project aims to create a digital library that celebrates creativity and connects readers with fresh literary content. It uses modern frontend technologies including Nuxt 3, TypeScript, and Tailwind CSS. The project is structured for scalability and maintainability, with a focus on clean UI and smooth user experience.
 
 ---
@@ -65,7 +66,7 @@ The app focuses on:
 
 ---
 
-# Nuxt Minimal Starter
+## Nuxt Minimal Starter
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
